@@ -1,0 +1,1978 @@
+
+2018-01-30 06:12:20,845 [b'uWSGIWorker2Core0':140539033351936] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:12:23,480 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:12:54,311 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:12:54,311 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:28,303 [b'uWSGIWorker1Core0':140539033351936] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:13:31,298 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:33,068 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:13:33,068 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:34,584 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:34,584 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:13:35,619 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:35,619 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:13:36,769 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:13:36,769 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:39,050 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:13:39,050 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:40,188 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:13:40,188 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:11,040 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:11,040 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:11,041 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:11,041 [b'uWSGIWorker1Core0':140539033351936] [django:71] [views:echo] [DEBUG]- ****************close websocket*******************
+2018-01-30 06:14:11,041 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:11,044 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:15,167 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:15,167 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:15,168 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:15,168 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:17,589 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:17,590 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:17,590 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:24,355 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:24,356 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:32,432 [b'uWSGIWorker1Core0':140539033351936] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:14:34,200 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:36,451 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:36,451 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:36,451 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:51,016 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:51,016 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:51,016 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:53,622 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:53,622 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:53,623 [b'uWSGIWorker1Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:53,623 [b'uWSGIWorker1Core0':140539033351936] [django:71] [views:echo] [DEBUG]- ****************close websocket*******************
+2018-01-30 06:14:53,624 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:53,624 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:24,356 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:55,807 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:14:55,808 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:55,808 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:14:55,809 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:00,583 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:15:00,584 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:00,584 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:00,585 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:03,929 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:03,930 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:15:03,930 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:03,931 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:03,931 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,070 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,070 [b'uWSGIWorker2Core0':140539033351936] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:15:19,070 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,071 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,071 [Thread-1:140538923980544] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,071 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,071 [Thread-2:140538829809408] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,071 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,072 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,072 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,072 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,073 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,073 [Thread-1:140538923718400] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:15:19,073 [b'uWSGIWorker2Core0':140539033351936] [django:71] [views:echo] [DEBUG]- ****************close websocket*******************
+2018-01-30 06:17:05,340 [b'uWSGIWorker1Core0':139844402358016] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:17:09,529 [b'uWSGIWorker2Core0':139844402358016] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:17:11,857 [b'uWSGIWorker2Core0':139844402358016] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:17:11,861 [Thread-1:139844292724480] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:19:45,401 [b'uWSGIWorker1Core0':139929954678528] [django.template:923] [base:_resolve_lookup] [DEBUG]- Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+2018-01-30 06:19:48,896 [b'uWSGIWorker1Core0':139929954678528] [django.template:923] [base:_resolve_lookup] [DEBUG]- Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+2018-01-30 06:20:36,365 [b'uWSGIWorker1Core0':139929954678528] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:20:43,015 [b'uWSGIWorker2Core0':139929954678528] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:20:47,024 [b'uWSGIWorker2Core0':139929954678528] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:21:07,553 [b'uWSGIWorker2Core0':139929954678528] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:21:12,099 [Thread-1:139929845282560] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:21:12,099 [b'uWSGIWorker2Core0':139929954678528] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:21:24,797 [Thread-1:139929845282560] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:21:24,798 [b'uWSGIWorker2Core0':139929954678528] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:26:56,947 [b'uWSGIWorker1Core0':140607366051584] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:27:06,091 [b'uWSGIWorker2Core0':140607366051584] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:27:17,168 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:27:35,210 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:27:38,089 [Thread-1:140607253681920] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:27:38,090 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:27:41,109 [Thread-1:140607253681920] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:27:41,109 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:27:42,282 [Thread-1:140607253681920] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:27:42,282 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:28:04,284 [Thread-1:140607253681920] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:28:04,285 [b'uWSGIWorker2Core0':140607366051584] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:28:04,285 [b'uWSGIWorker2Core0':140607366051584] [django:71] [views:echo] [DEBUG]- ****************close websocket*******************
+2018-01-30 06:28:04,285 [Thread-1:140607253681920] [django:24] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:33:12,706 [b'uWSGIWorker1Core0':139876655769344] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:33:19,160 [b'uWSGIWorker2Core0':139876655769344] [django:64] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:33:21,668 [b'uWSGIWorker2Core0':139876655769344] [django:68] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:40:32,595 [b'uWSGIWorker1Core0':139833982797568] [django:38] [views:index] [DEBUG]- ****************i13776*******************
+2018-01-30 06:40:32,596 [b'uWSGIWorker1Core0':139833982797568] [django:39] [views:index] [DEBUG]- ****************i13774*******************
+2018-01-30 06:40:44,561 [b'uWSGIWorker1Core0':139833982797568] [django:38] [views:index] [DEBUG]- ****************i13776*******************
+2018-01-30 06:40:44,562 [b'uWSGIWorker1Core0':139833982797568] [django:39] [views:index] [DEBUG]- ****************i13774*******************
+2018-01-30 06:40:54,115 [b'uWSGIWorker1Core0':139833982797568] [django:67] [views:echo] [DEBUG]- ****************i13776*******************
+2018-01-30 06:40:54,116 [b'uWSGIWorker1Core0':139833982797568] [django:68] [views:echo] [DEBUG]- ****************i13774*******************
+2018-01-30 06:40:54,116 [b'uWSGIWorker1Core0':139833982797568] [django:70] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:41:36,268 [b'uWSGIWorker2Core0':139833982797568] [django:67] [views:echo] [DEBUG]- ****************i13777*******************
+2018-01-30 06:41:36,268 [b'uWSGIWorker2Core0':139833982797568] [django:68] [views:echo] [DEBUG]- ****************i13774*******************
+2018-01-30 06:41:36,268 [b'uWSGIWorker2Core0':139833982797568] [django:70] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:41:57,848 [b'uWSGIWorker2Core0':139833982797568] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:41:57,849 [b'uWSGIWorker2Core0':139833982797568] [django:75] [views:echo] [DEBUG]- ****************i13777*******************
+2018-01-30 06:41:57,851 [b'uWSGIWorker2Core0':139833982797568] [django:76] [views:echo] [DEBUG]- ****************i13774*******************
+2018-01-30 06:42:57,748 [b'uWSGIWorker2Core0':139833982797568] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:42:57,749 [Thread-1:139833870427904] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:42:57,749 [b'uWSGIWorker2Core0':139833982797568] [django:75] [views:echo] [DEBUG]- ****************i13777*******************
+2018-01-30 06:42:57,749 [b'uWSGIWorker2Core0':139833982797568] [django:76] [views:echo] [DEBUG]- ****************i13774*******************
+2018-01-30 06:42:57,750 [b'uWSGIWorker2Core0':139833982797568] [django:78] [views:echo] [DEBUG]- ****************close websocket*******************
+2018-01-30 06:42:57,750 [Thread-1:139833870427904] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:57:29,667 [b'uWSGIWorker1Core0':139769791174400] [django:38] [views:index] [DEBUG]- ****************i13934*******************
+2018-01-30 06:57:29,668 [b'uWSGIWorker1Core0':139769791174400] [django:39] [views:index] [DEBUG]- ****************i13932*******************
+2018-01-30 06:57:33,717 [b'uWSGIWorker1Core0':139769791174400] [django:38] [views:index] [DEBUG]- ****************i13934*******************
+2018-01-30 06:57:33,717 [b'uWSGIWorker1Core0':139769791174400] [django:39] [views:index] [DEBUG]- ****************i13932*******************
+2018-01-30 06:58:18,935 [b'uWSGIWorker1Core0':139769791174400] [django:67] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:58:18,935 [b'uWSGIWorker1Core0':139769791174400] [django:68] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:58:18,935 [b'uWSGIWorker1Core0':139769791174400] [django:70] [views:echo] [DEBUG]- ****************connect*******************
+2018-01-30 06:58:28,898 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:58:28,899 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:58:28,899 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:58:40,218 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:58:40,219 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:58:40,219 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:58:47,192 [Thread-1:139769678542592] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:58:47,193 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:58:47,193 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:58:47,193 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:58:53,533 [Thread-1:139769678542592] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:58:53,533 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:58:53,533 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:58:53,534 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:59:29,088 [Thread-1:139769678542592] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 06:59:29,088 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 06:59:29,089 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 06:59:29,089 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 06:59:29,089 [Thread-1:139769678542592] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 07:00:29,141 [b'uWSGIWorker1Core0':139769791174400] [django:74] [views:echo] [DEBUG]- ****************send message*******************
+2018-01-30 07:00:29,141 [b'uWSGIWorker1Core0':139769791174400] [django:75] [views:echo] [DEBUG]- ****************i13934*******************
+2018-01-30 07:00:29,141 [b'uWSGIWorker1Core0':139769791174400] [django:76] [views:echo] [DEBUG]- ****************i13932*******************
+2018-01-30 07:00:29,142 [Thread-1:139769678542592] [django:25] [views:subscribe] [DEBUG]- ****************recive message*******************
+2018-01-30 07:00:29,142 [b'uWSGIWorker1Core0':139769791174400] [django:78] [views:echo] [DEBUG]- ****************close websocket*******************
+****************i14094*******************
+****************i14092*******************
+****************i14095*******************
+****************i14092*******************
+****************i14096*******************
+****************i14092*******************
+****************connect*******************
+****************send message*******************
+****************i14096*******************
+****************i14092*******************
+****************close websocket*******************
+****************i14097*******************
+****************i14092*******************
+****************connect*******************
+****************send message*******************
+****************i14097*******************
+****************i14092*******************
+****************close websocket*******************
+****************recive message*******************
+****************i14179*******************
+****************i14177*******************
+****************i14179*******************
+****************i14177*******************
+****************i14179*******************
+****************i14177*******************
+****************connect*******************
+****************send message*******************
+****************i14179*******************
+****************i14177*******************
+****************i14180*******************
+****************i14177*******************
+****************connect*******************
+****************send message*******************
+****************i14180*******************
+****************i14177*******************
+****************i14181*******************
+****************i14177*******************
+****************connect*******************
+****************send message*******************
+****************i14181*******************
+****************i14177*******************
+****************recive message*******************
+****************send message*******************
+****************i14181*******************
+****************i14177*******************
+****************recive message*******************
+****************send message*******************
+****************i14181*******************
+****************i14177*******************
+****************recive message*******************
+****************send message*******************
+****************i14181*******************
+****************i14177*******************
+****************send message*******************
+****************recive message*******************
+****************i14181*******************
+****************i14177*******************
+****************recive message*******************
+****************send message*******************
+****************i14181*******************
+****************i14177*******************
+****************close websocket*******************
+****************recive message*******************
+****************i14181*******************
+****************i14177*******************
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'path': 'favicon.ico', 'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+****************i14218*******************
+****************i14216*******************
+****************connect*******************
+****************i14219*******************
+****************i14216*******************
+****************connect*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************recive message*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************recive message*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************recive message*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************recive message*******************
+****************send message*******************
+****************i14219*******************
+****************i14216*******************
+****************recive message*******************
+****************close websocket*******************
+****************i14219*******************
+****************i14216*******************
+****************i14337*******************
+****************i14335*******************
+****************i14337*******************
+****************i14335*******************
+****************i14337*******************
+****************i14335*******************
+****************i14337*******************
+****************i14335*******************
+****************i14337*******************
+****************i14335*******************
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'path': 'favicon.ico', 'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+****************i14337*******************
+****************i14335*******************
+****************connect*******************
+****************i14338*******************
+****************i14335*******************
+****************connect*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************close websocket*******************
+****************recive message*******************
+****************i14338*******************
+****************i14335*******************
+****************connect*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************recive message*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************recive message*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************close websocket*******************
+****************recive message*******************
+****************recive message*******************
+****************i14338*******************
+****************i14335*******************
+****************connect*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************recive message*******************
+****************recive message*******************
+****************send message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************recive message*******************
+****************send message*******************
+****************recive message*******************
+****************i14338*******************
+****************i14335*******************
+****************recive message*******************
+****************recive message*******************
+****************send message*******************
+****************recive message*******************
+****************i14338*******************
+****************i14335*******************
+****************i14339*******************
+****************i14335*******************
+****************connect*******************
+****************send message*******************
+****************i14339*******************
+****************i14335*******************
+****************recive message*******************
+****************send message*******************
+****************i14339*******************
+****************i14335*******************
+****************recive message*******************
+****************send message*******************
+****************i14339*******************
+****************i14335*******************
+****************recive message*******************
+****************send message*******************
+****************i14339*******************
+****************i14335*******************
+****************close websocket*******************
+****************recive message*******************
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^favicon.ico$>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^favicon.ico$>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^favicon.ico$>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^favicon.ico$>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^favicon.ico$>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/echo/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>]], 'path': 'static/favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15782 :  connect*******************
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15797 :  connect*******************
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15819 : <Thread(Thread-2, started daemon 140314122094336)> : connect*******************
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15855 : <Thread(Thread-4, started daemon 140484439430912)> : connect*******************
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15899 : <Thread(Thread-2, started daemon 139673221437184)> : connect
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15910 : <Thread(Thread-2, started daemon 140616874063616)> : connect
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15948 : <Thread(Thread-4, started daemon 140064292775680)> : connect
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15959 : <Thread(Thread-2, started daemon 140679688374016)> : connect
+****************15959 : <Thread(Thread-2, started daemon 140679688374016)> : ready to start a new thread*******************
+****************15959 : <Thread(Thread-3, started daemon 140679679194880)> : i am the new thread
+****************15959 : <Thread(Thread-2, started daemon 140679688374016)> : send a message
+****************15959 : <Thread(Thread-3, started daemon 140679679194880)> : unsubscribe
+****************15959 : <Thread(Thread-2, started daemon 140679688374016)> : send a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : connect
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : ready to start a new thread*******************
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> : i am the new thread
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : websocket close
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-5, started daemon 140244930594560)> : 请求结束
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : connect
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : ready to start a new thread*******************
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> : i am the new thread
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> :recive a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : connect
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : ready to start a new thread*******************
+****************15971 : <Thread(Thread-11, started daemon 140244691179264)> : i am the new thread
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : send a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> :recive a message
+****************15971 : <Thread(Thread-11, started daemon 140244691179264)> :recive a message
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : send a message
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : websocket close
+****************15971 : <Thread(Thread-10, started daemon 140244699571968)> : 请求结束
+****************15971 : <Thread(Thread-11, started daemon 140244691179264)> :recive a message
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> :recive a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-11, started daemon 140244691179264)> :recive a message
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> :recive a message
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : send a message
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : websocket close
+****************15971 : <Thread(Thread-6, started daemon 140244918966016)> :recive a message
+****************15971 : <Thread(Thread-9, started daemon 140244707964672)> :recive a message
+****************15971 : <Thread(Thread-11, started daemon 140244691179264)> :recive a message
+****************15971 : <Thread(Thread-8, started daemon 140244930594560)> : 请求结束
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16016 : <Thread(Thread-7, started daemon 139695039039232)> : connect
+****************16016 : <Thread(Thread-7, started daemon 139695039039232)> : ready to start a new thread*******************
+****************16016 : <Thread(Thread-8, started daemon 139694952150784)> : i am the new thread
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : connect
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : ready to start a new thread
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> : i am the new thread
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : send a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : send a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : send a message
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : websocket close
+****************16046 : <Thread(Thread-3, started daemon 139633395586816)> : 请求结束
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : connect
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : ready to start a new thread
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> : i am the new thread
+****************16046 : <Thread(Thread-7, started daemon 139633367435008)> : connect
+****************16046 : <Thread(Thread-7, started daemon 139633367435008)> : ready to start a new thread
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> : i am the new thread
+****************16046 : <Thread(Thread-7, started daemon 139633367435008)> : send a message
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> :recive a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> :recive a message
+****************16046 : <Thread(Thread-7, started daemon 139633367435008)> : send a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> :recive a message
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> :recive a message
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : send a message
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> :recive a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> :recive a message
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : send a message
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : websocket close
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> :recive a message
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> :recive a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-5, started daemon 139633395586816)> : 请求结束
+****************16046 : <Thread(Thread-7, started daemon 139633367435008)> : send a message
+****************16046 : <Thread(Thread-8, started daemon 139633359042304)> :recive a message
+****************16046 : <Thread(Thread-4, started daemon 139633384220416)> :recive a message
+****************16046 : <Thread(Thread-6, started daemon 139633375827712)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16134 : <Thread(Thread-7, started daemon 140572958172928)> : connect
+****************16134 : <Thread(Thread-7, started daemon 140572958172928)> : ready to start a new thread
+****************16134 : <Thread(Thread-8, started daemon 140572946806528)> : i am the new thread
+****************16134 : <Thread(Thread-9, started daemon 140572736091904)> : connect
+****************16134 : <Thread(Thread-9, started daemon 140572736091904)> : ready to start a new thread
+****************16134 : <Thread(Thread-10, started daemon 140572727699200)> : i am the new thread
+****************16134 : <Thread(Thread-8, started daemon 140572946806528)> :recive a message
+****************16134 : <Thread(Thread-10, started daemon 140572727699200)> :recive a message
+****************16134 : <Thread(Thread-10, started daemon 140572727699200)> :recive a message
+****************16134 : <Thread(Thread-8, started daemon 140572946806528)> :recive a message
+****************16134 : <Thread(Thread-9, started daemon 140572736091904)> : send a message
+****************16134 : <Thread(Thread-9, started daemon 140572736091904)> : websocket close
+****************16134 : <Thread(Thread-10, started daemon 140572727699200)> :recive a message
+****************16134 : <Thread(Thread-9, started daemon 140572736091904)> : 请求结束
+****************16134 : <Thread(Thread-8, started daemon 140572946806528)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16315 : <Thread(Thread-7, started daemon 140342053992192)> : connect
+****************16315 : <Thread(Thread-7, started daemon 140342053992192)> : ready to start a new thread
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> : i am the new thread
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : connect
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : ready to start a new thread
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> : i am the new thread
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : send a message
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> :recive a message
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> :recive a message
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : send a message
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> :recive a message
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> :recive a message
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : send a message
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : websocket close
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> :recive a message
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> :recive a message
+****************16315 : <Thread(Thread-9, started daemon 140342034233088)> : 请求结束
+****************16315 : <Thread(Thread-7, started daemon 140342053992192)> : send a message
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> :recive a message
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> :recive a message
+****************16315 : <Thread(Thread-7, started daemon 140342053992192)> : send a message
+****************16315 : <Thread(Thread-8, started daemon 140342042625792)> :recive a message
+****************16315 : <Thread(Thread-10, started daemon 140342025840384)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16445 : <Thread(Thread-2, started daemon 139902428604160)> : connect
+****************16445 : <Thread(Thread-2, started daemon 139902428604160)> : ready to start a new thread
+****************16445 : <Thread(Thread-3, started daemon 139902419425024)> : i am the new thread
+****************16445 : <Thread(Thread-4, started daemon 139902411032320)> : connect
+****************16445 : <Thread(Thread-4, started daemon 139902411032320)> : ready to start a new thread
+****************16445 : <Thread(Thread-5, started daemon 139902402639616)> : i am the new thread
+****************16445 : <Thread(Thread-4, started daemon 139902411032320)> : send a message
+****************16445 : <Thread(Thread-3, started daemon 139902419425024)> :recive a message
+****************16445 : <Thread(Thread-5, started daemon 139902402639616)> :recive a message
+****************16445 : <Thread(Thread-2, started daemon 139902428604160)> : send a message
+****************16445 : <Thread(Thread-5, started daemon 139902402639616)> :recive a message
+****************16445 : <Thread(Thread-3, started daemon 139902419425024)> :recive a message
+****************16445 : <Thread(Thread-8, started daemon 139902428604160)> : connect
+****************16445 : <Thread(Thread-8, started daemon 139902428604160)> : ready to start a new thread
+****************16445 : <Thread(Thread-9, started daemon 139902411032320)> : i am the new thread
+****************16445 : <Thread(Thread-10, started daemon 139902050105088)> : connect
+****************16445 : <Thread(Thread-10, started daemon 139902050105088)> : ready to start a new thread
+****************16445 : <Thread(Thread-11, started daemon 139902041712384)> : i am the new thread
+****************16445 : <Thread(Thread-10, started daemon 139902050105088)> : send a message
+****************16445 : <Thread(Thread-5, started daemon 139902402639616)> :recive a message
+****************16445 : <Thread(Thread-11, started daemon 139902041712384)> :recive a message
+****************16445 : <Thread(Thread-3, started daemon 139902419425024)> :recive a message
+****************16445 : <Thread(Thread-9, started daemon 139902411032320)> :recive a message
+****************16445 : <Thread(Thread-8, started daemon 139902428604160)> : send a message
+****************16445 : <Thread(Thread-3, started daemon 139902419425024)> :recive a message
+****************16445 : <Thread(Thread-9, started daemon 139902411032320)> :recive a message
+****************16445 : <Thread(Thread-5, started daemon 139902402639616)> :recive a message
+****************16445 : <Thread(Thread-11, started daemon 139902041712384)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16472 : <Thread(Thread-4, started daemon 140140555007744)> : connect
+****************16472 : <Thread(Thread-4, started daemon 140140555007744)> : ready to start a new thread
+****************16472 : <Thread(Thread-5, started daemon 140140543641344)> : i am the new thread
+****************16472 : <Thread(Thread-6, started daemon 140140535248640)> : connect
+****************16472 : <Thread(Thread-6, started daemon 140140535248640)> : ready to start a new thread
+****************16472 : <Thread(Thread-7, started daemon 140140526855936)> : i am the new thread
+****************16472 : <Thread(Thread-6, started daemon 140140535248640)> : send a message
+****************16472 : <Thread(Thread-7, started daemon 140140526855936)> :recive a message
+****************16472 : <Thread(Thread-5, started daemon 140140543641344)> :recive a message
+****************16472 : <Thread(Thread-4, started daemon 140140555007744)> : send a message
+****************16472 : <Thread(Thread-7, started daemon 140140526855936)> :recive a message
+****************16472 : <Thread(Thread-5, started daemon 140140543641344)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16511 : <Thread(Thread-2, started daemon 140242893330176)> : connect
+****************16511 : <Thread(Thread-2, started daemon 140242893330176)> : ready to start a new thread
+****************16511 : <Thread(Thread-3, started daemon 140242884413184)> : i am the new thread
+****************16511 : <Thread(Thread-4, started daemon 140242876020480)> : connect
+****************16511 : <Thread(Thread-4, started daemon 140242876020480)> : ready to start a new thread
+****************16511 : <Thread(Thread-5, started daemon 140242867627776)> : i am the new thread
+****************16511 : <Thread(Thread-4, started daemon 140242876020480)> : send a message
+****************16511 : <Thread(Thread-5, started daemon 140242867627776)> :recive a message
+****************16511 : <Thread(Thread-3, started daemon 140242884413184)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16527 : <Thread(Thread-2, started daemon 140230145341184)> : connect
+****************16527 : <Thread(Thread-2, started daemon 140230145341184)> : ready to start a new thread
+****************16527 : <Thread(Thread-3, started daemon 140230136948480)> : i am the new thread
+****************16527 : <Thread(Thread-4, started daemon 140230128555776)> : connect
+****************16527 : <Thread(Thread-4, started daemon 140230128555776)> : ready to start a new thread
+****************16527 : <Thread(Thread-5, started daemon 140230120163072)> : i am the new thread
+****************16527 : <Thread(Thread-2, started daemon 140230145341184)> : send a message
+****************16527 : <Thread(Thread-3, started daemon 140230136948480)> :recive a message
+****************16527 : <Thread(Thread-5, started daemon 140230120163072)> :recive a message
+****************16527 : <Thread(Thread-4, started daemon 140230128555776)> : send a message
+****************16527 : <Thread(Thread-3, started daemon 140230136948480)> :recive a message
+****************16527 : <Thread(Thread-5, started daemon 140230120163072)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16538 : <Thread(Thread-2, started daemon 139810607339264)> : connect
+****************16538 : <Thread(Thread-2, started daemon 139810607339264)> : ready to start a new thread
+****************16538 : <Thread(Thread-3, started daemon 139810598160128)> : i am the new thread
+****************16538 : <Thread(Thread-4, started daemon 139810589767424)> : connect
+****************16538 : <Thread(Thread-4, started daemon 139810589767424)> : ready to start a new thread
+****************16538 : <Thread(Thread-5, started daemon 139810379396864)> : i am the new thread
+****************16538 : <Thread(Thread-2, started daemon 139810607339264)> : send a message
+****************16538 : <Thread(Thread-3, started daemon 139810598160128)> :recive a message
+****************16538 : <Thread(Thread-5, started daemon 139810379396864)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : connect
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : ready to start a new thread
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> : i am the new thread
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : connect
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : ready to start a new thread
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> : i am the new thread
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : send a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : send a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : websocket close
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-9, started daemon 140279115839232)> : 请求结束
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : send a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : send a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : send a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : websocket close
+****************16556 : <Thread(Thread-8, started daemon 140279124231936)> :recive a message
+****************16556 : <Thread(Thread-10, started daemon 140279107446528)> :recive a message
+****************16556 : <Thread(Thread-7, started daemon 140279134811904)> : 请求结束
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : connect
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : ready to start a new thread
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> : i am the new thread
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : connect
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : ready to start a new thread
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> : i am the new thread
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : send a message
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : websocket close
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-7, started daemon 139639964141312)> : 请求结束
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : send a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : websocket close
+****************16586 : <Thread(Thread-6, started daemon 139639972534016)> :recive a message
+****************16586 : <Thread(Thread-5, started daemon 139639984162560)> : 请求结束
+****************16586 : <Thread(Thread-8, started daemon 139639955748608)> :recive a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : connect
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : ready to start a new thread
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> : i am the new thread
+****************16689 : <Thread(Thread-7, started daemon 140256367597312)> : connect
+****************16689 : <Thread(Thread-7, started daemon 140256367597312)> : ready to start a new thread
+****************16689 : <Thread(Thread-8, started daemon 140256359204608)> : i am the new thread
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-8, started daemon 140256359204608)> :recive a message
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-8, started daemon 140256359204608)> :recive a message
+****************16689 : <Thread(Thread-7, started daemon 140256367597312)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-8, started daemon 140256359204608)> :recive a message
+****************16689 : <Thread(Thread-7, started daemon 140256367597312)> : websocket close
+****************16689 : <Thread(Thread-7, started daemon 140256367597312)> : 请求结束
+****************16689 : <Thread(Thread-8, started daemon 140256359204608)> : unsubscribe
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : send a message
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> :recive a message
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : websocket close
+****************16689 : <Thread(Thread-5, started daemon 140256384907008)> : 请求结束
+****************16689 : <Thread(Thread-6, started daemon 140256375990016)> : unsubscribe
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : connect
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : ready to start a new thread
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> : i am the new thread
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : connect
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : ready to start a new thread
+****************16689 : <Thread(Thread-12, started daemon 140256367597312)> : i am the new thread
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-12, started daemon 140256367597312)> :recive a message
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-12, started daemon 140256367597312)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-12, started daemon 140256367597312)> :recive a message
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : websocket close
+****************16689 : <Thread(Thread-11, started daemon 140256359204608)> : 请求结束
+****************16689 : <Thread(Thread-12, started daemon 140256367597312)> : unsubscribe
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : send a message
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> :recive a message
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : websocket close
+****************16689 : <Thread(Thread-9, started daemon 140256375990016)> : 请求结束
+****************16689 : <Thread(Thread-10, started daemon 140256384907008)> : unsubscribe
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : connect
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : ready to start a new thread
+****************16726 : <Thread(Thread-5, started daemon 139803697616640)> : i am the new thread
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : send a message
+****************16726 : <Thread(Thread-5, started daemon 139803697616640)> :recive a message
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : send a message
+****************16726 : <Thread(Thread-5, started daemon 139803697616640)> :recive a message
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : websocket close
+****************16726 : <Thread(Thread-4, started daemon 139803708983040)> : 请求结束
+****************16726 : <Thread(Thread-5, started daemon 139803697616640)> : unsubscribe
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : connect
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : ready to start a new thread
+****************16726 : <Thread(Thread-7, started daemon 139803697616640)> : i am the new thread
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : send a message
+****************16726 : <Thread(Thread-7, started daemon 139803697616640)> :recive a message
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : send a message
+****************16726 : <Thread(Thread-7, started daemon 139803697616640)> :recive a message
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : websocket close
+****************16726 : <Thread(Thread-6, started daemon 139803708983040)> : 请求结束
+****************16726 : <Thread(Thread-7, started daemon 139803697616640)> : unsubscribe
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16759 : <Thread(Thread-2, started daemon 140243797792512)> : connect
+****************16759 : <Thread(Thread-2, started daemon 140243797792512)> : ready to start a new thread
+****************16759 : <Thread(Thread-3, started daemon 140243788875520)> : i am the new thread
+****************16759 : <Thread(Thread-2, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-3, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-2, started daemon 140243797792512)> : websocket close
+****************16759 : <Thread(Thread-2, started daemon 140243797792512)> : 请求结束
+****************16759 : <Thread(Thread-3, started daemon 140243788875520)> : unsubscribe
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : connect
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : ready to start a new thread
+****************16759 : <Thread(Thread-5, started daemon 140243797792512)> : i am the new thread
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-5, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-5, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : websocket close
+****************16759 : <Thread(Thread-4, started daemon 140243788875520)> : 请求结束
+****************16759 : <Thread(Thread-5, started daemon 140243797792512)> : unsubscribe
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : connect
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : ready to start a new thread
+****************16759 : <Thread(Thread-7, started daemon 140243797792512)> : i am the new thread
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-7, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-7, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : websocket close
+****************16759 : <Thread(Thread-6, started daemon 140243788875520)> : 请求结束
+****************16759 : <Thread(Thread-7, started daemon 140243797792512)> : unsubscribe
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : connect
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : ready to start a new thread
+****************16759 : <Thread(Thread-9, started daemon 140243788875520)> : i am the new thread
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-9, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-9, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : websocket close
+****************16759 : <Thread(Thread-8, started daemon 140243797792512)> : 请求结束
+****************16759 : <Thread(Thread-9, started daemon 140243788875520)> : unsubscribe
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : connect
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : ready to start a new thread
+****************16759 : <Thread(Thread-11, started daemon 140243797792512)> : i am the new thread
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-11, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-11, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : websocket close
+****************16759 : <Thread(Thread-10, started daemon 140243788875520)> : 请求结束
+****************16759 : <Thread(Thread-11, started daemon 140243797792512)> : unsubscribe
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : connect
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : ready to start a new thread
+****************16759 : <Thread(Thread-13, started daemon 140243788875520)> : i am the new thread
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-13, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-13, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : websocket close
+****************16759 : <Thread(Thread-12, started daemon 140243797792512)> : 请求结束
+****************16759 : <Thread(Thread-13, started daemon 140243788875520)> : unsubscribe
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : connect
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : ready to start a new thread
+****************16759 : <Thread(Thread-15, started daemon 140243797792512)> : i am the new thread
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-15, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : send a message
+****************16759 : <Thread(Thread-15, started daemon 140243797792512)> :recive a message
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : websocket close
+****************16759 : <Thread(Thread-14, started daemon 140243788875520)> : 请求结束
+****************16759 : <Thread(Thread-15, started daemon 140243797792512)> : unsubscribe
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : connect
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : ready to start a new thread
+****************16759 : <Thread(Thread-17, started daemon 140243788875520)> : i am the new thread
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-17, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : send a message
+****************16759 : <Thread(Thread-17, started daemon 140243788875520)> :recive a message
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : websocket close
+****************16759 : <Thread(Thread-16, started daemon 140243797792512)> : 请求结束
+****************16759 : <Thread(Thread-17, started daemon 140243788875520)> : unsubscribe
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16815 : <Thread(Thread-2, started daemon 139795765143296)> : connect
+****************16815 : <Thread(Thread-2, started daemon 139795765143296)> : ready to start a new thread
+****************16815 : <Thread(Thread-3, started daemon 139795682555648)> : i am the new thread
+****************16815 : <Thread(Thread-2, started daemon 139795765143296)> : send a message
+****************16815 : <Thread(Thread-3, started daemon 139795682555648)> :recive a message
+****************16815 : <Thread(Thread-2, started daemon 139795765143296)> : websocket close
+****************16815 : <Thread(Thread-2, started daemon 139795765143296)> : 请求结束
+****************16815 : <Thread(Thread-3, started daemon 139795682555648)> : unsubscribe
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : connect
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : ready to start a new thread
+****************16815 : <Thread(Thread-5, started daemon 139795765143296)> : i am the new thread
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-5, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-5, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-5, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : websocket close
+****************16815 : <Thread(Thread-4, started daemon 139795682555648)> : 请求结束
+****************16815 : <Thread(Thread-5, started daemon 139795765143296)> : unsubscribe
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : connect
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : ready to start a new thread
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> : i am the new thread
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : websocket close
+****************16815 : <Thread(Thread-6, started daemon 139795682555648)> : 请求结束
+****************16815 : <Thread(Thread-7, started daemon 139795765143296)> : unsubscribe
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : connect
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : ready to start a new thread
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> : i am the new thread
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : send a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : connect
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : ready to start a new thread
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> : i am the new thread
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : send a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> :recive a message
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : send a message
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> :recive a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : send a message
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> :recive a message
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> :recive a message
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : websocket close
+****************16815 : <Thread(Thread-9, started daemon 139795682555648)> : 请求结束
+****************16815 : <Thread(Thread-10, started daemon 139795765143296)> : unsubscribe
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : send a message
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> :recive a message
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : send a message
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> :recive a message
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : websocket close
+****************16815 : <Thread(Thread-11, started daemon 139795674162944)> : 请求结束
+****************16815 : <Thread(Thread-12, started daemon 139795665770240)> : unsubscribe
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************16856 : <_MainThread(b'uWSGIWorker1Core0', started 140503698523904)> : connect
+****************16856 : <_MainThread(b'uWSGIWorker1Core0', started 140503698523904)> : ready to start a new thread
+****************16856 : <Thread(Thread-1, started 140503559726848)> : i am the new thread
+****************16857 : <_MainThread(b'uWSGIWorker2Core0', started 140503698523904)> : connect
+****************16857 : <_MainThread(b'uWSGIWorker2Core0', started 140503698523904)> : ready to start a new thread
+****************16857 : <Thread(Thread-1, started 140503559726848)> : i am the new thread
+****************16857 : <_MainThread(b'uWSGIWorker2Core0', started 140503698523904)> : send a message
+****************16857 : <Thread(Thread-1, started 140503559726848)> :recive a message
+****************16857 : <_MainThread(b'uWSGIWorker2Core0', started 140503698523904)> : send a message
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'path': 'static/js/jquery.min.js', 'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'path': 'static/favicon.ico', 'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/js/jquery.min.js'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 134, in get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/urlresolvers.py", line 404, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.core.urlresolvers.Resolver404: {'tried': [[<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>], [<RegexURLPattern None ^lytest/hlsroom/echo/(.*)/(.*)/$>], [<RegexURLPattern None ^lytest/hlsroom/(.*)/(.*)/$>], [<RegexURLPattern None ^favicon.ico$>]], 'path': 'static/favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 879, in _resolve_lookup
+    current = current[bit]
+TypeError: 'RegexURLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 887, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'RegexURLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 894, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/template/base.py", line 901, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<RegexURLResolver <RegexURLPattern list> (admin:admin) ^admin/>'
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : connect
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : ready to start a new thread
+****************19216 : <Thread(Thread-1, started 140093134194432)> : i am the new thread
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : send a message
+****************19216 : <Thread(Thread-1, started 140093134194432)> :recive a message
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : send a message
+****************19216 : <Thread(Thread-1, started 140093134194432)> :recive a message
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : send a message
+****************19216 : <Thread(Thread-1, started 140093134194432)> :recive a message
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : send a message
+****************19216 : <Thread(Thread-1, started 140093134194432)> :recive a message
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : websocket close
+****************19216 : <_MainThread(b'uWSGIWorker3Core0', started 140093272991488)> : 请求结束
+****************19216 : <Thread(Thread-1, started 140093134194432)> : unsubscribe
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : connect
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : ready to start a new thread
+****************19276 : <Thread(Thread-1, started 140628490589952)> : i am the new thread
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : connect
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : ready to start a new thread
+****************19274 : <Thread(Thread-1, started 140628490589952)> : i am the new thread
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : websocket close
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : 请求结束
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-1, started 140628490589952)> : unsubscribe
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : websocket close
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <_MainThread(b'uWSGIWorker4Core0', started 140628629124864)> : 请求结束
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> :recive a message
+****************19276 : <Thread(Thread-1, started 140628490589952)> : unsubscribe
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : connect
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : ready to start a new thread
+****************19273 : <Thread(Thread-1, started 140628490327808)> : i am the new thread
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : connect
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : ready to start a new thread
+****************19274 : <Thread(Thread-2, started 140628490589952)> : i am the new thread
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : websocket close
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : 请求结束
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> :recive a message
+****************19274 : <Thread(Thread-2, started 140628490589952)> : unsubscribe
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : websocket close
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : 请求结束
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-1, started 140628490327808)> : unsubscribe
