@@ -1976,3 +1976,190 @@ django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<Reg
 ****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
 ****************19273 : <Thread(Thread-1, started 140628490327808)> :recive a message
 ****************19273 : <Thread(Thread-1, started 140628490327808)> : unsubscribe
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : connect
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : ready to start a new thread
+****************19274 : <Thread(Thread-3, started 140628490589952)> : i am the new thread
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-3, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-3, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19274 : <Thread(Thread-3, started 140628490589952)> :recive a message
+****************19274 : <_MainThread(b'uWSGIWorker2Core0', started 140628629124864)> : send a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : connect
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : ready to start a new thread
+****************19273 : <Thread(Thread-2, started 140628490327808)> : i am the new thread
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : send a message
+****************19273 : <Thread(Thread-2, started 140628490327808)> :recive a message
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : websocket close
+****************19273 : <_MainThread(b'uWSGIWorker1Core0', started 140628629124864)> : 请求结束
+****************19273 : <Thread(Thread-2, started 140628490327808)> : unsubscribe
+****************24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : connect
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : ready to start a new thread
+*****24901 : <Thread(Thread-1, started 139943138264832)> : i am the new thread
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-1, started 139943138264832)> :recive a message 1
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-1, started 139943138264832)> :recive a message 2
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : websocket close
+*****24901 : <Thread(Thread-1, started 139943138264832)> :recive a message 3
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : 请求结束
+*****24901 : <Thread(Thread-1, started 139943138264832)> : unsubscribe
+****************24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : connect
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : ready to start a new thread
+*****24901 : <Thread(Thread-2, started 139943138264832)> : i am the new thread
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 1
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 2
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 3
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 4
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 5
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 6
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 7
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 8
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 9
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 10
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 11
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 12
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 13
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 14
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : websocket close
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 15
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : 请求结束
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 16
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 17
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 18
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 19
+*****24901 : <Thread(Thread-2, started 139943138264832)> :recive a message 20
+*****24901 : <Thread(Thread-2, started 139943138264832)> : unsubscribe
+****************24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : connect
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : ready to start a new thread
+*****24901 : <Thread(Thread-3, started 139943138264832)> : i am the new thread
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : websocket close
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : 请求结束
+*****24901 : <Thread(Thread-3, started 139943138264832)> : unsubscribe
+****************24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : connect
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : ready to start a new thread
+*****24901 : <Thread(Thread-4, started 139943138264832)> : i am the new thread
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-4, started 139943138264832)> :recive a message 1
+*****24901 : <Thread(Thread-4, started 139943138264832)> :recive a message 2
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-4, started 139943138264832)> :recive a message 3
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+*****24901 : <Thread(Thread-4, started 139943138264832)> :recive a message 4
+*****24901 : <_MainThread(b'uWSGIWorker1Core0', started 139943277061888)> : send a message
+(0.001) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+****************25047 : <Thread(Thread-5, started daemon 140441664087808)> : connect
+*****25047 : <Thread(Thread-5, started daemon 140441664087808)> : ready to start a new thread
+*****25047 : <Thread(Thread-6, started daemon 140441655695104)> : i am the new thread
+*****25047 : <Thread(Thread-5, started daemon 140441664087808)> : send a message
+*****25047 : <Thread(Thread-6, started daemon 140441655695104)> : unsubscribe
+****************25207 : <_MainThread(b'uWSGIWorker1Core0', started 140634798597888)> : connect
+*****25207 : <_MainThread(b'uWSGIWorker1Core0', started 140634798597888)> : ready to start a new thread
+*****25207 : <Thread(Thread-1, started 140634659800832)> : i am the new thread
+*****25207 : <_MainThread(b'uWSGIWorker1Core0', started 140634798597888)> : send a message
+*****25207 : <Thread(Thread-1, started 140634659800832)> : unsubscribe
+*****25207 : <_MainThread(b'uWSGIWorker1Core0', started 140634798597888)> : send a message
+*****25207 : <_MainThread(b'uWSGIWorker1Core0', started 140634798597888)> : send a message
+****************25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : connect
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : ready to start a new thread
+*****25352 : <Thread(Thread-1, started 140305178846976)> : i am the new thread
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'what'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'what'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'what'
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'what'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'what'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : send a message
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : websocket close
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <_MainThread(b'uWSGIWorker1Core0', started 140305317644032)> : 请求结束
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <Thread(Thread-1, started 140305178846976)> :recive message: b'Hello, World!'
+*****25352 : <Thread(Thread-1, started 140305178846976)> : unsubscribe
+****************25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : connect
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : ready to start a new thread
+*****25543 : <Thread(Thread-1, started 139801216333568)> : i am the new thread
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-1, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-1, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-1, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : websocket close
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : 请求结束
+*****25543 : <Thread(Thread-1, started 139801216333568)> : unsubscribe
+****************25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : connect
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : ready to start a new thread
+*****25543 : <Thread(Thread-2, started 139801216333568)> : i am the new thread
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-2, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-2, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-2, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : send a message
+*****25543 : <Thread(Thread-2, started 139801216333568)> :recive message: b'Hello, World!'
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : websocket close
+*****25543 : <_MainThread(b'uWSGIWorker5Core0', started 139801355130624)> : 请求结束
+*****25543 : <Thread(Thread-2, started 139801216333568)> : unsubscribe
+****************25726 : <_MainThread(b'uWSGIWorker1Core0', started 140051870402304)> : connect
+*****25726 : <_MainThread(b'uWSGIWorker1Core0', started 140051870402304)> : ready to start a new thread
+*****25726 : <Thread(Thread-1, started 140051731605248)> : i am the new thread
+*****25726 : <_MainThread(b'uWSGIWorker1Core0', started 140051870402304)> : send a message
+*****25726 : <Thread(Thread-1, started 140051731605248)> :recive message: b'Hello, World!'
+*****25726 : <_MainThread(b'uWSGIWorker1Core0', started 140051870402304)> : websocket close
+*****25726 : <_MainThread(b'uWSGIWorker1Core0', started 140051870402304)> : 请求结束
+*****25726 : <Thread(Thread-1, started 140051731605248)> : unsubscribe

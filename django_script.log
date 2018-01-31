@@ -750,3 +750,51 @@ Not Found: /static/js/jquery.min.js
 Not Found: /static/favicon.ico
 Not Found: /static/js/jquery.min.js
 Not Found: /static/favicon.ico
+Internal Server Error: /lytest/hlsroom/echo/xjtu/software/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/loading_21th/dwebsocket/examples/src/dwebsocket-master/dwebsocket/decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/uwsgidecorators.py", line 92, in __call__
+    return self.f()
+TypeError: echo() missing 3 required positional arguments: 'request', 'schoolname', and 'classname'
+Internal Server Error: /lytest/hlsroom/echo/xjtu/software/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/loading_21th/dwebsocket/examples/src/dwebsocket-master/dwebsocket/decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/uwsgidecorators.py", line 92, in __call__
+    return self.f()
+TypeError: echo() missing 3 required positional arguments: 'request', 'schoolname', and 'classname'
+Internal Server Error: /lytest/hlsroom/echo/xjtu/software/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/loading_21th/dwebsocket/examples/src/dwebsocket-master/dwebsocket/decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/uwsgidecorators.py", line 92, in __call__
+    return self.f()
+TypeError: echo() missing 3 required positional arguments: 'request', 'schoolname', and 'classname'
+Internal Server Error: /lytest/hlsroom/echo/xjtu/software/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/uwsgidecorators.py", line 92, in __call__
+    return self.f()
+TypeError: _wrapped_view() missing 1 required positional argument: 'request'

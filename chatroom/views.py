@@ -3,6 +3,7 @@ import threading
 from django.shortcuts import render
 from dwebsocket.decorators import accept_websocket,require_websocket
 from django.http import HttpResponse
+from uwsgidecorators import postfork
 import os
 import redis
 import logging
@@ -23,20 +24,22 @@ class RedisHelper:
 
     def subscribe(self,websocket):
         logger = logging.getLogger('django')
-        logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : i am the new thread')
+        logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : i am the new thread')
+        count = 0
         try:
             for item in self.pub.listen():
                 if item['type'] == 'message':
-                    logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' :recive a message')
+                    count = count +1
+                    logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' :recive message: '+str(item['data']))
                     websocket.send(item['data'])
         finally:
-            logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : unsubscribe')
+            logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : unsubscribe')
             self.unsubscribe()
 
-
+    @postfork
     def writeback(self,websocket):
         logger = logging.getLogger('django')
-        logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : ready to start a new thread')
+        logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : ready to start a new thread')
         th1 = threading.Thread(target=self.subscribe,args=(websocket,))
         th1.start()
 
@@ -75,13 +78,13 @@ def echo(request,schoolname,classname):
         for message in request.websocket:
             if not message:
                 break
-            logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : send a message')
+            logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : send a message')
             client.publishi(message)
 #            for i in threading.enumerate():
 #               print(str(i))
-        logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : websocket close')
+        logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : websocket close')
     client.unsubscribe()
-    logger.debug('****************'+str(os.getpid())+' : '+str(threading.currentThread())+' : 请求结束')
+    logger.debug('*****'+str(os.getpid())+' : '+str(threading.currentThread())+' : 请求结束')
 
 
 
